@@ -1,3 +1,13 @@
+## About This Project
+
+Grant Copilot is a RAG-based AI assistant built during my capstone at Emory University in partnership with Invest Atlanta, the City of Atlanta's economic development agency.
+
+**The problem:** Invest Atlanta staff needed to quickly surface Census data to support grant eligibility decisions for Atlanta neighborhoods, but the Census Bureau's catalog contains over 700,000 variables across dozens of surveys and geographic levels. Finding the right data manually was slow and required technical expertise most staff didn't have.
+
+**The solution:** A natural language query system that lets non-technical users ask plain-English questions and get back quantitative prose with full source citations. Every number is traceable to a specific Census variable, year, and geography.
+
+
+---
 # grant-copilot
 
 **Data-grounded grant-writing assistant over U.S. Census data.**
